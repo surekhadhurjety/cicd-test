@@ -30,7 +30,7 @@
 
     environment {
 
-    ANYPOINT_CREDENTIALS = credentials(‘anypoint.credential’)
+    ANYPOINT_CREDENTIALS = credentials(‘anypointPlatform’)
 
     }
 
